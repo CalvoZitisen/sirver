@@ -83,6 +83,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 12:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 12:38:30 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_desert_phoenix": {
     "criteria": {
       "has_egg": "2024-11-30 12:03:46 +0000"
@@ -98,6 +110,12 @@
   "tombstone:adventure/first_grave": {
     "criteria": {
       "coded_trigger": "2024-11-30 12:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-11-30 12:36:41 +0000"
     },
     "done": true
   },
@@ -119,6 +137,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2024-11-30 12:29:24 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/hunter/potion_table": {
     "criteria": {
       "has_glass_bottle": "2024-11-30 12:20:00 +0000"
@@ -128,6 +152,18 @@
   "vampirism:recipes/decorations/general/grave_cage": {
     "criteria": {
       "has_coal": "2024-11-30 12:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2024-11-30 12:29:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_leggings": "2024-11-30 12:29:09 +0000"
     },
     "done": true
   },
@@ -164,6 +200,12 @@
   "exoticbirds:default/root": {
     "criteria": {
       "launch_mod": "2024-11-30 12:03:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2024-11-30 12:36:39 +0000"
     },
     "done": true
   },
@@ -221,6 +263,12 @@
     },
     "done": false
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 12:38:30 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
     "criteria": {
       "has_heart": "2024-11-30 12:16:37 +0000"
@@ -251,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 12:38:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:root": {
     "criteria": {
       "root": "2024-11-30 12:21:54 +0000"
@@ -268,6 +322,12 @@
       "warden": "2024-11-30 12:23:23 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-11-30 12:34:10 +0000"
+    },
+    "done": true
   },
   "justhammers:recipes/tools/gold_impact_hammer": {
     "criteria": {
@@ -312,6 +372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 12:38:30 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_twilight_phoenix": {
     "criteria": {
       "has_egg": "2024-11-30 12:03:46 +0000"
@@ -327,6 +393,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-11-30 12:24:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-11-30 12:29:24 +0000"
     },
     "done": true
   },
@@ -354,6 +426,12 @@
     },
     "done": false
   },
+  "deeperdarker:recipes/combat/sonorous_staff": {
+    "criteria": {
+      "has_heart_of_the_deep": "2024-11-30 12:31:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-11-30 12:07:16 +0000"
@@ -372,11 +450,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2024-11-30 12:36:41 +0000"
+    },
+    "done": true
+  },
   "vampirism:vampire/bat": {
     "criteria": {
+      "action": "2024-11-30 12:28:42 +0000",
       "main": "2024-11-30 12:19:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -399,6 +484,12 @@
   "exoticbirds:recipes/phoenix_egg_from_fire_phoenix": {
     "criteria": {
       "has_egg": "2024-11-30 12:03:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-11-30 12:38:30 +0000"
     },
     "done": true
   },
@@ -468,6 +559,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-11-30 12:29:35 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2024-11-30 12:24:01 +0000"
@@ -498,6 +595,12 @@
     },
     "done": true
   },
+  "exoticbirds:recipes/ambrosia": {
+    "criteria": {
+      "has_glow_berries": "2024-11-30 12:29:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-30 12:03:46 +0000"
@@ -525,6 +628,12 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_leggings": "2024-11-30 12:29:09 +0000"
     },
     "done": true
   },
