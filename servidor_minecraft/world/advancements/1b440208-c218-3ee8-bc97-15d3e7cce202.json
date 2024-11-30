@@ -25,9 +25,10 @@
   },
   "vampirism:vampire/blood_cult": {
     "criteria": {
-      "main": "2024-11-30 14:43:06 +0000"
+      "main": "2024-11-30 14:43:06 +0000",
+      "flower": "2024-11-30 15:39:20 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
@@ -674,6 +675,12 @@
   "vampirism:recipes/combat/hunter/crucifix": {
     "criteria": {
       "planks": "2024-11-30 14:35:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_blue": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:40:48 +0000"
     },
     "done": true
   },
@@ -1445,6 +1452,12 @@
     },
     "done": true
   },
+  "vampirism:main/ancient_knowledge": {
+    "criteria": {
+      "blood_container": "2024-11-30 15:38:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "minecraft:planks": "2024-11-30 14:35:48 +0000"
@@ -1736,6 +1749,12 @@
   "supplementaries:recipes/spring_launcher": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 14:52:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_white_black": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:40:48 +0000"
     },
     "done": true
   },
@@ -2161,6 +2180,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_white": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:40:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-11-30 14:52:06 +0000"
@@ -2341,6 +2366,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/vampire/vampire_cloak_black_red": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:40:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-11-30 14:31:18 +0000"
@@ -2489,6 +2520,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2024-11-30 14:52:06 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_cloak_red_black": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:40:48 +0000"
     },
     "done": true
   },
