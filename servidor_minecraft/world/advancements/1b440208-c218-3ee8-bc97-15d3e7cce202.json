@@ -1494,6 +1494,30 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/hunter/pure_blood1": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:52:48 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood2": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:54:52 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood3": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:54:57 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/hunter/pure_blood0": {
+    "criteria": {
+      "has_pure_blood": "2024-11-30 15:50:36 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_green": {
     "criteria": {
       "has_iron_ingot": "2024-11-30 14:52:06 +0000"
@@ -1509,6 +1533,12 @@
   "exoticbirds:recipes/egg_identifier": {
     "criteria": {
       "has_bucket": "2024-11-30 14:27:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:vampire/max_level": {
+    "criteria": {
+      "level": "2024-11-30 15:56:53 +0000"
     },
     "done": true
   },
