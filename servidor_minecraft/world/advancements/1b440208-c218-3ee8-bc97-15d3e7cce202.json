@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-11-30 12:39:25 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2024-11-30 12:03:46 +0000"
@@ -197,6 +203,12 @@
     },
     "done": false
   },
+  "croptopia:recipes/fruit_smoothie": {
+    "criteria": {
+      "has_fruit": "2024-11-30 12:43:51 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:default/root": {
     "criteria": {
       "launch_mod": "2024-11-30 12:03:57 +0000"
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/candle_holders/candle_holder": {
+    "criteria": {
+      "has_candle": "2024-11-30 12:40:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-11-30 12:38:30 +0000"
@@ -369,6 +387,12 @@
     "criteria": {
       "has_bucket": "2024-11-30 12:03:46 +0000",
       "has_flint": "2024-11-30 12:03:46 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2024-11-30 12:40:42 +0000"
     },
     "done": true
   },
@@ -622,6 +646,12 @@
   "vampirism:vampire/become_vampire": {
     "criteria": {
       "main": "2024-11-30 12:19:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/candelabra_candles": {
+    "criteria": {
+      "has_honey": "2024-11-30 12:40:42 +0000"
     },
     "done": true
   },
