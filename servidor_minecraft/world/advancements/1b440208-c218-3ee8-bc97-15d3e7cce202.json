@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/gold_block_slab": {
+    "criteria": {
+      "has_gold_block": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/root": {
     "criteria": {
       "c1": "2024-11-30 12:03:57 +0000"
@@ -65,6 +71,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:default/root": {
     "criteria": {
       "launch_mod": "2024-11-30 12:03:57 +0000"
@@ -74,6 +86,12 @@
   "deeperdarker:main/find_ancient_city": {
     "criteria": {
       "ancient_city": "2024-11-30 12:04:32 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_hat": {
+    "criteria": {
+      "has_heart": "2024-11-30 12:16:37 +0000"
     },
     "done": true
   },
@@ -89,15 +107,57 @@
     },
     "done": true
   },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_boots": {
+    "criteria": {
+      "has_heart": "2024-11-30 12:16:37 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/egg_identifier": {
     "criteria": {
       "has_bucket": "2024-11-30 12:03:46 +0000"
     },
     "done": true
   },
+  "vampirism:recipes/combat/weapontable/crucifix_ultimate": {
+    "criteria": {
+      "gold": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_legs": {
+    "criteria": {
+      "has_heart": "2024-11-30 12:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2024-11-30 12:07:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/combat/vampire/vampire_clothing_crown": {
+    "criteria": {
+      "has_heart": "2024-11-30 12:16:37 +0000"
     },
     "done": true
   },
@@ -114,9 +174,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-11-30 12:03:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2024-11-30 12:10:42 +0000"
     },
     "done": true
   },
@@ -144,6 +216,24 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-11-30 12:10:42 +0000"
+    },
+    "done": true
+  },
   "bossominium:loot_bosses_a": {
     "criteria": {
       "loot_bosses_a": "2024-11-30 12:03:57 +0000"
@@ -162,6 +252,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-11-30 12:09:01 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/phoenix_egg_from_water_phoenix": {
     "criteria": {
       "has_egg": "2024-11-30 12:03:46 +0000"
@@ -171,6 +267,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-11-30 12:03:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2024-11-30 12:10:42 +0000"
     },
     "done": true
   },
