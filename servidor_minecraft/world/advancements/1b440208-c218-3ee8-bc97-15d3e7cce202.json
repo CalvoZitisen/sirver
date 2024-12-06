@@ -4924,6 +4924,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
+    "criteria": {
+      "has_bookshelf": "2024-12-06 15:20:49 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2024-12-06 14:31:50 +0000"
@@ -4987,6 +4993,12 @@
   "murvel:theres_a_third": {
     "criteria": {
       "theres_a_third_0": "2024-12-06 14:48:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-06 15:20:49 +0000"
     },
     "done": true
   },
