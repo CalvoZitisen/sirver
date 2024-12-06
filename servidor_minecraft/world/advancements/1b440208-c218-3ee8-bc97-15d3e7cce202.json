@@ -142,13 +142,17 @@
     "criteria": {
       "minecraft:eroded_badlands": "2024-12-01 14:55:55 +0000",
       "minecraft:wooded_badlands": "2024-11-30 14:27:11 +0000",
+      "minecraft:bamboo_jungle": "2024-12-06 14:57:23 +0000",
       "minecraft:badlands": "2024-11-30 14:32:45 +0000",
       "minecraft:savanna_plateau": "2024-11-30 15:04:57 +0000",
       "minecraft:beach": "2024-12-06 14:33:45 +0000",
       "minecraft:stony_peaks": "2024-11-30 14:34:30 +0000",
+      "minecraft:sparse_jungle": "2024-12-06 14:54:58 +0000",
       "minecraft:river": "2024-12-06 14:31:56 +0000",
+      "minecraft:stony_shore": "2024-12-06 15:00:13 +0000",
       "minecraft:forest": "2024-11-30 14:34:36 +0000",
       "minecraft:desert": "2024-12-06 14:41:42 +0000",
+      "minecraft:jungle": "2024-12-06 14:54:47 +0000",
       "minecraft:deep_dark": "2024-11-30 14:27:53 +0000",
       "minecraft:savanna": "2024-12-01 14:55:53 +0000"
     },
@@ -2538,6 +2542,7 @@
       "minecraft:skeleton": "2024-12-01 14:58:11 +0000",
       "minecraft:spider": "2024-11-30 14:52:29 +0000",
       "minecraft:creeper": "2024-12-01 14:39:49 +0000",
+      "minecraft:phantom": "2024-12-06 14:58:10 +0000",
       "minecraft:witch": "2024-12-01 14:57:17 +0000",
       "minecraft:zombie": "2024-11-30 15:07:35 +0000"
     },
@@ -4817,9 +4822,21 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "greenbean_seed": "2024-12-06 15:00:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:31:50 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-06 15:00:16 +0000"
     },
     "done": true
   },
@@ -4850,6 +4867,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:31:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-06 14:55:32 +0000"
     },
     "done": true
   },
@@ -4973,9 +4996,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-06 14:55:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:31:50 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-06 14:58:10 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-06 14:55:13 +0000"
     },
     "done": true
   },
@@ -4994,6 +5035,24 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:31:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-06 14:55:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-06 14:56:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-06 15:00:16 +0000"
     },
     "done": true
   },
@@ -5078,6 +5137,12 @@
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2024-12-06 14:31:50 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2024-12-06 14:58:10 +0000"
     },
     "done": true
   },
@@ -5183,11 +5248,23 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-06 14:55:13 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/crimson_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:31:50 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "greenbean_seed": "2024-12-06 15:00:16 +0000"
+    },
+    "done": false
   },
   "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
     "criteria": {
