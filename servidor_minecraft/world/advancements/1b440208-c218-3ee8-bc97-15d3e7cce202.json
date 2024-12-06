@@ -5062,6 +5062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 15:23:42 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/find_grave_dust": {
     "criteria": {
       "from_undead": "2024-12-06 14:56:43 +0000"
@@ -5188,9 +5194,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 15:23:42 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2024-12-06 14:31:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-06 15:27:46 +0000"
     },
     "done": true
   },
@@ -5287,6 +5305,12 @@
   "vampirism:recipes/alchemy_table/alchemy_table/plant_oil": {
     "criteria": {
       "has_wheat_seeds": "2024-12-06 14:40:13 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 15:23:42 +0000"
     },
     "done": true
   },

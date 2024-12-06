@@ -3641,6 +3641,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/bookshelf_slab": {
+    "criteria": {
+      "has_bookshelf": "2024-12-06 15:21:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2024-12-06 15:21:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-06 14:38:27 +0000"
@@ -3662,6 +3674,12 @@
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-06 14:40:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 15:25:47 +0000"
     },
     "done": true
   },
@@ -3745,6 +3763,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 15:25:47 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2024-12-06 14:49:32 +0000"
@@ -3766,6 +3790,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2024-12-06 14:47:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-06 15:27:50 +0000"
     },
     "done": true
   },
@@ -3802,6 +3832,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-06 14:47:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-06 15:25:47 +0000"
     },
     "done": true
   },
