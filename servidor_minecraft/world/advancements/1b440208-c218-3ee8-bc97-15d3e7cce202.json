@@ -6168,9 +6168,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2024-12-08 15:30:37 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/potato_chips": {
     "criteria": {
       "has_potato": "2024-12-08 15:22:19 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
@@ -6234,9 +6246,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_table": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_shelf": {
     "criteria": {
       "has_oak_shelf": "2024-12-08 15:10:26 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-08 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-12-08 15:30:50 +0000"
     },
     "done": true
   },
@@ -6288,9 +6318,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-08 15:30:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-08 15:03:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_blinds": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
@@ -6321,6 +6363,12 @@
   "handcrafted:recipes/misc/terracotta_plate": {
     "criteria": {
       "has_terracotta_plate": "2024-12-08 15:02:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_park_bench": {
+    "criteria": {
+      "has_planks": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
@@ -6432,6 +6480,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-08 15:32:00 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_couch": {
     "criteria": {
       "has_oak_couch": "2024-12-08 15:10:26 +0000"
@@ -6453,6 +6507,12 @@
   "cfm:recipes/decorations/yellow_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-08 15:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-08 15:30:37 +0000"
     },
     "done": true
   },
@@ -6486,6 +6546,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-08 15:30:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/black_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-08 15:02:49 +0000"
@@ -6516,6 +6582,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 15:10:26 +0000"
@@ -6537,6 +6609,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2024-12-08 15:18:01 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_crate": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
@@ -6570,6 +6648,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-08 15:30:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2024-12-08 15:02:49 +0000"
@@ -6582,15 +6666,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2024-12-08 15:30:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2024-12-08 15:22:19 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-08 15:42:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-08 15:10:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2024-12-08 15:42:14 +0000"
     },
     "done": true
   },
@@ -6720,6 +6822,18 @@
     },
     "done": false
   },
+  "new_slab_variants:recipes/building_blocks/stripped_jungle_log_slab": {
+    "criteria": {
+      "has_stripped_jungle_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_dining_bench": {
     "criteria": {
       "has_oak_dining_bench": "2024-12-08 15:10:26 +0000"
@@ -6744,6 +6858,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_bedside_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-08 15:30:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-08 15:02:49 +0000"
@@ -6753,6 +6879,12 @@
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
       "has_stackable_book": "2024-12-08 15:22:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_chair": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
@@ -6768,6 +6900,30 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-08 15:32:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/melon_juice": {
+    "criteria": {
+      "has_melon": "2024-12-08 15:30:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-08 15:30:37 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chocolate": {
     "criteria": {
       "has_cocoa_beans": "2024-12-08 15:24:00 +0000"
@@ -6777,6 +6933,12 @@
   "mca:recipes/misc/family_tree": {
     "criteria": {
       "has_item": "2024-12-08 15:22:50 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_coffee_table": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
@@ -6816,6 +6978,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2024-12-08 15:28:07 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_pie": {
     "criteria": {
       "has_apple": "2024-12-08 15:09:01 +0000"
@@ -6840,6 +7008,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_desk_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-08 15:10:26 +0000"
@@ -6855,6 +7029,12 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-08 15:26:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
@@ -6882,15 +7062,33 @@
     },
     "done": true
   },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-08 15:30:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_pillar_trim": {
     "criteria": {
       "has_oak_pillar_trim": "2024-12-08 15:10:26 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_desk": {
+    "criteria": {
+      "has_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_thick_pot": {
     "criteria": {
       "has_terracotta_thick_pot": "2024-12-08 15:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
@@ -6903,6 +7101,12 @@
   "new_slab_variants:recipes/building_blocks/iron_block_slab": {
     "criteria": {
       "has_iron_block": "2024-12-08 15:26:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2024-12-08 15:42:14 +0000"
     },
     "done": true
   },
@@ -6927,6 +7131,12 @@
   "cfm:recipes/decorations/brown_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-08 15:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-08 15:33:10 +0000"
     },
     "done": true
   },
