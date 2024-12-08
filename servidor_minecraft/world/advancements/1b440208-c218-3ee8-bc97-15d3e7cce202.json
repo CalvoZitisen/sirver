@@ -6714,6 +6714,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2024-12-08 15:55:03 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/terracotta_thin_pot": {
     "criteria": {
       "has_terracotta_thin_pot": "2024-12-08 15:02:49 +0000"
@@ -6870,6 +6876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-08 15:55:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/orange_kitchen_counter": {
     "criteria": {
       "has_stone": "2024-12-08 15:02:49 +0000"
@@ -6885,6 +6897,12 @@
   "cfm:recipes/decorations/stripped_jungle_chair": {
     "criteria": {
       "has_log": "2024-12-08 15:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-12-08 15:55:03 +0000"
     },
     "done": true
   },
@@ -7095,6 +7113,12 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2024-12-08 15:09:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-08 15:55:03 +0000"
     },
     "done": true
   },
