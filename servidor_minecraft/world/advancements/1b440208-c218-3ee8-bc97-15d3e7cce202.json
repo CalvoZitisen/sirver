@@ -6180,6 +6180,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-08 16:02:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_cabinet": {
     "criteria": {
       "has_planks": "2024-12-08 15:33:10 +0000"

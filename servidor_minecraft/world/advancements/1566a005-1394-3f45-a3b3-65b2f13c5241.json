@@ -6528,15 +6528,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2024-12-08 14:57:22 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_warped_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6570,9 +6588,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/magenta_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2024-12-08 15:26:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6600,6 +6630,37 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/lime_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "beetroot": "2024-12-08 16:02:36 +0000",
+      "potato": "2024-12-08 16:01:39 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/warped_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
@@ -6612,9 +6673,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2024-12-08 15:23:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6636,6 +6709,24 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/pink_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-08 15:13:53 +0000"
@@ -6651,6 +6742,24 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2024-12-08 15:26:45 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6678,9 +6787,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_dark_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/transportation/driftwood_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6816,6 +6961,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/steak_and_potatoes": {
     "criteria": {
       "has_baked_potato": "2024-12-08 15:47:09 +0000"
@@ -6828,6 +6985,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/sorting_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
@@ -6837,6 +7000,12 @@
   "supplementaries:recipes/soap": {
     "criteria": {
       "has_water_bucket": "2024-12-08 15:49:55 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6894,9 +7063,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_birch_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6915,6 +7096,12 @@
   "boatload:recipes/transportation/birch_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6948,9 +7135,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/dark_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6969,6 +7174,12 @@
   "boatload:recipes/transportation/spruce_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -6996,6 +7207,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/green_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chocolate": {
     "criteria": {
       "has_cocoa_beans": "2024-12-08 15:23:36 +0000"
@@ -7011,6 +7228,12 @@
   "upgrade_aquatic:recipes/transportation/river_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -7074,9 +7297,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2024-12-08 15:28:33 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -7122,6 +7357,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/transportation/large_river_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
@@ -7140,9 +7387,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-08 15:26:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
@@ -7164,15 +7423,39 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2024-12-08 16:02:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-08 15:13:44 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/large_mangrove_boat": {
     "criteria": {
       "has_boat": "2024-12-08 15:15:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_kitchen_sink": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bucket": "2024-12-08 15:57:38 +0000"
     },
     "done": true
   },
