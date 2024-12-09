@@ -7460,6 +7460,24 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flint_block": {
+    "criteria": {
+      "has_flint": "2024-12-09 14:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-09 14:58:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-09 14:58:49 +0000"
+    },
+    "done": true
+  },
   "mca:hunted": {
     "criteria": {
       "iron": "2024-12-09 14:44:25 +0000"
