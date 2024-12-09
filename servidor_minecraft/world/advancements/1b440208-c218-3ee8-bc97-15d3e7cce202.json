@@ -7186,6 +7186,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-09 15:57:42 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
@@ -7261,6 +7267,12 @@
   "vampirism:recipes/misc/vampire_beacon": {
     "criteria": {
       "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-09 15:57:41 +0000"
     },
     "done": true
   },
@@ -7399,6 +7411,12 @@
   "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2024-12-09 15:56:40 +0000"
     },
     "done": true
   },
@@ -7543,6 +7561,12 @@
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 15:57:41 +0000"
     },
     "done": true
   },

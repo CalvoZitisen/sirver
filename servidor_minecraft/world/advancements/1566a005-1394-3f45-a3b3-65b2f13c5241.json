@@ -3626,6 +3626,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2024-12-09 15:47:49 +0000",
       "cooked_beef": "2024-12-06 14:39:32 +0000",
       "tropical_fish": "2024-12-08 15:22:52 +0000",
       "carrot": "2024-12-09 14:51:07 +0000"
@@ -7479,6 +7480,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-09 15:57:38 +0000"
+    },
+    "done": false
+  },
   "new_slab_variants:recipes/building_blocks/stripped_birch_log_slab": {
     "criteria": {
       "has_stripped_birch_log": "2024-12-09 15:38:05 +0000"
@@ -7588,6 +7595,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/hunter/potion_table": {
+    "criteria": {
+      "has_glass_bottle": "2024-12-09 15:47:49 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/vampire/fog_diffuser": {
     "criteria": {
       "has_diamond": "2024-12-09 15:23:02 +0000"
@@ -7606,6 +7619,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-09 15:57:37 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2024-12-09 15:38:30 +0000"
@@ -7621,6 +7640,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-09 15:28:48 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:55:35 +0000"
     },
     "done": true
   },
@@ -7762,6 +7787,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:55:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-09 15:23:23 +0000"
@@ -7885,6 +7916,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-09 15:23:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-09 15:55:35 +0000"
     },
     "done": true
   },
@@ -8056,6 +8093,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:55:35 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/decorations/general/altar_cleansing_new": {
     "criteria": {
       "has_book": "2024-12-09 15:38:30 +0000"
@@ -8104,6 +8147,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 15:57:37 +0000"
+    },
+    "done": true
+  },
   "exoticbirds:recipes/ambrosia": {
     "criteria": {
       "has_honey": "2024-12-09 15:37:57 +0000"
@@ -8137,6 +8186,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-09 15:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:55:35 +0000"
     },
     "done": true
   },
