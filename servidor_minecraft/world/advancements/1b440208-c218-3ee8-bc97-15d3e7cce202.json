@@ -5260,7 +5260,9 @@
   },
   "croptopia:gather_all": {
     "criteria": {
-      "greenbean_seed": "2024-12-06 15:00:16 +0000"
+      "cauliflower_seed": "2024-12-09 15:33:54 +0000",
+      "greenbean_seed": "2024-12-06 15:00:16 +0000",
+      "cranberry_seed": "2024-12-09 15:33:54 +0000"
     },
     "done": false
   },
@@ -7214,6 +7216,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-09 15:33:11 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
@@ -7244,6 +7252,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
@@ -7259,6 +7273,12 @@
   "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
     },
     "done": true
   },
@@ -7352,6 +7372,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
@@ -7406,6 +7432,12 @@
     },
     "done": true
   },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "cauliflower_seed": "2024-12-09 15:33:54 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
@@ -7421,6 +7453,12 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2024-12-09 15:23:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-09 15:32:25 +0000"
     },
     "done": true
   },
@@ -7484,6 +7522,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
@@ -7523,6 +7567,18 @@
   "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_swamp": {
+    "criteria": {
+      "cranberry_seed": "2024-12-09 15:33:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
     },
     "done": true
   },
