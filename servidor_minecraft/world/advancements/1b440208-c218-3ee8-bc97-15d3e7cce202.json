@@ -7240,6 +7240,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-09 15:43:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
@@ -7432,6 +7438,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-09 15:43:52 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_forest": {
     "criteria": {
       "cauliflower_seed": "2024-12-09 15:33:54 +0000"
@@ -7575,6 +7587,12 @@
       "cranberry_seed": "2024-12-09 15:33:54 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/sconce_soul": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-09 15:43:52 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
