@@ -3626,7 +3626,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-06 14:39:32 +0000",
-      "tropical_fish": "2024-12-08 15:22:52 +0000"
+      "tropical_fish": "2024-12-08 15:22:52 +0000",
+      "carrot": "2024-12-09 14:51:07 +0000"
     },
     "done": false
   },
