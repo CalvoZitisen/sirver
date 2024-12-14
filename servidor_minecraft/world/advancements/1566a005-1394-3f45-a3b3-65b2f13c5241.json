@@ -7452,7 +7452,8 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "beetroot": "2024-12-08 16:02:36 +0000",
-      "potato": "2024-12-08 16:01:39 +0000"
+      "potato": "2024-12-08 16:01:39 +0000",
+      "wheat": "2024-12-14 10:48:11 +0000"
     },
     "done": false
   },
