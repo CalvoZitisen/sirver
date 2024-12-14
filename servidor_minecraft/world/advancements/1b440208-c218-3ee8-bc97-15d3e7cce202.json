@@ -2551,6 +2551,7 @@
       "minecraft:phantom": "2024-12-06 14:58:10 +0000",
       "minecraft:zombified_piglin": "2024-12-14 15:23:17 +0000",
       "minecraft:witch": "2024-12-01 14:57:17 +0000",
+      "minecraft:wither_skeleton": "2024-12-14 15:24:38 +0000",
       "minecraft:piglin": "2024-12-14 15:16:03 +0000",
       "minecraft:enderman": "2024-12-07 15:10:05 +0000",
       "minecraft:zombie": "2024-11-30 15:07:35 +0000"
@@ -7630,6 +7631,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2024-12-14 15:25:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_ancient_debris": "2024-12-14 14:56:48 +0000"
@@ -7666,15 +7679,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
   "netherdungeons:recipes/crafting/polished_netherrack": {
     "criteria": {
       "has_items": "2024-12-14 14:57:45 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-14 15:25:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/chiseled_red_nether_bricks": {
+    "criteria": {
+      "has_items": "2024-12-14 15:25:45 +0000"
     },
     "done": true
   },
@@ -7696,9 +7727,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/kingblaze": {
+    "criteria": {
+      "c1": "2024-12-14 15:30:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
     "criteria": {
       "has_soul_sand": "2024-12-14 14:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/kingblazekill": {
+    "criteria": {
+      "c1": "2024-12-14 15:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-14 15:25:45 +0000"
     },
     "done": true
   },
@@ -7738,9 +7805,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2024-12-14 15:25:50 +0000"
     },
     "done": true
   },
@@ -7753,6 +7844,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2024-12-14 14:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
     },
     "done": true
   },
@@ -7780,9 +7877,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-14 15:25:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/red_nether_brick_fence": {
+    "criteria": {
+      "has_items": "2024-12-14 15:25:45 +0000"
     },
     "done": true
   },
@@ -7804,15 +7913,33 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/chiseled_nether_bricks_slab": {
+    "criteria": {
+      "has_chiseled_nether_bricks": "2024-12-14 15:25:45 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/blazepath/blazetower": {
     "criteria": {
       "c1": "2024-12-14 15:23:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
     },
     "done": true
   },
@@ -7888,6 +8015,18 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/chiseled_polished_blackstone_slab": {
+    "criteria": {
+      "has_chiseled_polished_blackstone": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
@@ -7897,6 +8036,18 @@
   "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/smelting/cracked_red_nether_bricks": {
+    "criteria": {
+      "has_items": "2024-12-14 15:25:45 +0000"
     },
     "done": true
   },
@@ -7924,6 +8075,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-14 15:25:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-14 14:57:09 +0000"
@@ -7939,6 +8102,24 @@
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-14 15:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2024-12-14 15:27:03 +0000"
     },
     "done": true
   },
@@ -7960,9 +8141,21 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/nether_wart_block_slab": {
+    "criteria": {
+      "has_nether_wart_block": "2024-12-14 15:25:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2024-12-14 15:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-14 15:25:45 +0000"
     },
     "done": true
   },
@@ -7984,11 +8177,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2024-12-14 15:25:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/completed": {
+    "criteria": {
+      "blaze_king": "2024-12-14 15:30:59 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
@@ -8005,6 +8216,12 @@
   "tombstone:adventure/use_reach": {
     "criteria": {
       "has_magic_scroll": "2024-12-14 15:22:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:27:03 +0000"
     },
     "done": true
   },
