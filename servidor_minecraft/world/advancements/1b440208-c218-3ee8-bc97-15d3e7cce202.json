@@ -2542,13 +2542,16 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-09 14:48:34 +0000",
+      "minecraft:blaze": "2024-12-14 15:23:21 +0000",
       "minecraft:skeleton": "2024-12-01 14:58:11 +0000",
       "minecraft:ghast": "2024-12-14 14:59:32 +0000",
       "minecraft:spider": "2024-11-30 14:52:29 +0000",
       "minecraft:piglin_brute": "2024-12-14 15:10:02 +0000",
       "minecraft:creeper": "2024-12-01 14:39:49 +0000",
       "minecraft:phantom": "2024-12-06 14:58:10 +0000",
+      "minecraft:zombified_piglin": "2024-12-14 15:23:17 +0000",
       "minecraft:witch": "2024-12-01 14:57:17 +0000",
+      "minecraft:piglin": "2024-12-14 15:16:03 +0000",
       "minecraft:enderman": "2024-12-07 15:10:05 +0000",
       "minecraft:zombie": "2024-11-30 15:07:35 +0000"
     },
@@ -7639,9 +7642,27 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-14 15:23:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_granite": {
     "criteria": {
       "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-14 15:15:07 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/bone_block_slab": {
+    "criteria": {
+      "has_bone_block": "2024-12-14 15:15:07 +0000"
     },
     "done": true
   },
@@ -7693,9 +7714,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-14 15:16:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 15:16:38 +0000"
     },
     "done": true
   },
@@ -7729,6 +7762,18 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-14 15:16:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-14 15:23:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
@@ -7741,6 +7786,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-14 15:16:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
@@ -7750,6 +7801,12 @@
   "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "1_splatus:ultris/blazepath/blazetower": {
+    "criteria": {
+      "c1": "2024-12-14 15:23:26 +0000"
     },
     "done": true
   },
@@ -7843,9 +7900,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-14 15:19:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-14 15:16:12 +0000"
     },
     "done": true
   },
@@ -7873,6 +7942,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 15:16:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_scrap": {
     "criteria": {
       "has_ancient_debris": "2024-12-14 14:56:48 +0000"
@@ -7882,6 +7957,12 @@
   "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-14 15:16:38 +0000"
     },
     "done": true
   },
@@ -7909,9 +7990,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-14 15:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-14 15:09:56 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_reach": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-14 15:22:16 +0000"
     },
     "done": true
   },

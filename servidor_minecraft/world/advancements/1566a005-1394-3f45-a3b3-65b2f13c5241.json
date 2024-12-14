@@ -8673,6 +8673,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 15:07:02 +0000"
@@ -8682,6 +8688,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-14 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
     },
     "done": true
   },
@@ -8697,9 +8709,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
     "criteria": {
       "has_soul_sand": "2024-12-14 14:57:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
     },
     "done": true
   },
@@ -8757,6 +8781,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/cracked_polished_blackstone_bricks_slab": {
+    "criteria": {
+      "has_cracked_polished_blackstone_bricks": "2024-12-14 15:21:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 15:07:02 +0000"
@@ -8781,9 +8811,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 15:07:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
     },
     "done": true
   },
@@ -8817,6 +8859,18 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-14 15:23:34 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/chiseled_polished_blackstone_slab": {
+    "criteria": {
+      "has_chiseled_polished_blackstone": "2024-12-14 15:22:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 15:07:02 +0000"
@@ -8838,6 +8892,12 @@
   "new_slab_variants:recipes/building_blocks/soul_soil_slab": {
     "criteria": {
       "has_soul_soil": "2024-12-14 14:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
     },
     "done": true
   },
@@ -8871,9 +8931,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2024-12-14 15:09:56 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
     },
     "done": true
   },
