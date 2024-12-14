@@ -3576,6 +3576,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-06 14:38:45 +0000",
+      "minecraft:ghast": "2024-12-14 15:01:13 +0000",
       "minecraft:spider": "2024-12-06 14:35:52 +0000",
       "minecraft:creeper": "2024-12-08 15:12:57 +0000",
       "minecraft:zombie": "2024-12-06 14:38:22 +0000"
@@ -3629,6 +3630,7 @@
       "honey_bottle": "2024-12-09 15:47:49 +0000",
       "cooked_beef": "2024-12-06 14:39:32 +0000",
       "tropical_fish": "2024-12-08 15:22:52 +0000",
+      "beetroot": "2024-12-14 15:02:09 +0000",
       "carrot": "2024-12-09 14:51:07 +0000"
     },
     "done": false
@@ -8484,6 +8486,12 @@
     },
     "done": true
   },
+  "1_splatus:ultris/illusioner": {
+    "criteria": {
+      "c1": "2024-12-14 10:22:11 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-14 10:32:34 +0000"
@@ -8493,12 +8501,6 @@
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-14 10:32:34 +0000"
-    },
-    "done": true
-  },
-  "1_splatus:ultris/illusioner": {
-    "criteria": {
-      "c1": "2024-12-14 10:22:11 +0000"
     },
     "done": true
   },
@@ -8667,6 +8669,90 @@
   "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-14 10:32:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-14 15:01:12 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_netherrack": {
+    "criteria": {
+      "has_items": "2024-12-14 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
+    "criteria": {
+      "has_soul_sand": "2024-12-14 14:57:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/bouquet": {
+    "criteria": {
+      "has_item": "2024-12-14 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2024-12-14 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-14 14:59:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-14 15:02:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-14 15:03:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-14 14:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-12-14 15:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-14 14:57:44 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/soul_soil_slab": {
+    "criteria": {
+      "has_soul_soil": "2024-12-14 14:57:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-14 14:57:58 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-14 15:02:45 +0000"
     },
     "done": true
   },

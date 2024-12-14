@@ -2543,6 +2543,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-09 14:48:34 +0000",
       "minecraft:skeleton": "2024-12-01 14:58:11 +0000",
+      "minecraft:ghast": "2024-12-14 14:59:32 +0000",
       "minecraft:spider": "2024-11-30 14:52:29 +0000",
       "minecraft:creeper": "2024-12-01 14:39:49 +0000",
       "minecraft:phantom": "2024-12-06 14:58:10 +0000",
@@ -7180,63 +7181,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2024-12-09 15:57:42 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-09 14:51:46 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/portable_tune_player": {
-    "criteria": {
-      "has_redstone": "2024-12-09 15:25:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/palettes/scorchia": {
-    "criteria": {
-      "has_item": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-09 15:33:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
     },
     "done": true
   },
@@ -7246,33 +7193,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_iron_nugget": "2024-12-09 15:43:52 +0000"
+      "has_dandelion": "2024-12-09 14:51:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-09 15:14:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-09 15:17:09 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:first_age": {
+    "criteria": {
+      "criteria_0": "2024-12-09 15:23:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2024-12-09 15:25:58 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/redstone/alarm": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/misc/vampire_beacon": {
-    "criteria": {
-      "has_obsidian": "2024-12-09 15:32:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2024-12-09 15:57:41 +0000"
     },
     "done": true
   },
@@ -7294,18 +7247,6 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
-    "criteria": {
-      "has_obsidian": "2024-12-09 15:32:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2024-12-09 14:51:46 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
@@ -7321,18 +7262,6 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
     },
     "done": true
   },
@@ -7354,21 +7283,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2024-12-09 15:14:34 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
     },
     "done": true
   },
@@ -7390,12 +7307,6 @@
     },
     "done": true
   },
-  "vampirism:recipes/decorations/general/totem_top": {
-    "criteria": {
-      "has_obsidian": "2024-12-09 15:32:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
@@ -7405,24 +7316,6 @@
   "create:recipes/misc/crafting/logistics/pulse_extender": {
     "criteria": {
       "has_item": "2024-12-09 15:25:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/vampire/chandelier_candle": {
-    "criteria": {
-      "has_honey": "2024-12-09 15:56:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
     },
     "done": true
   },
@@ -7444,29 +7337,11 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2024-12-09 15:17:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
     },
     "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-09 15:43:52 +0000"
-    },
-    "done": true
-  },
-  "croptopia:gather_forest": {
-    "criteria": {
-      "cauliflower_seed": "2024-12-09 15:33:54 +0000"
-    },
-    "done": false
   },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
@@ -7480,27 +7355,9 @@
     },
     "done": true
   },
-  "evilcraft:first_age": {
-    "criteria": {
-      "criteria_0": "2024-12-09 15:23:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2024-12-09 15:32:25 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/taser": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
     },
     "done": true
   },
@@ -7510,27 +7367,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
     },
     "done": true
   },
@@ -7546,39 +7385,15 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/totem_base": {
-    "criteria": {
-      "has_obsidian": "2024-12-09 15:32:25 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2024-12-09 15:57:41 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2024-12-09 15:25:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
     },
     "done": true
   },
@@ -7594,6 +7409,114 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-09 15:25:59 +0000"
@@ -7606,11 +7529,71 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/vampire_beacon": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/obsidian_slab": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_top": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/totem_base": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-09 15:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-09 15:33:11 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "cauliflower_seed": "2024-12-09 15:33:54 +0000"
+    },
+    "done": false
+  },
   "croptopia:gather_swamp": {
     "criteria": {
       "cranberry_seed": "2024-12-09 15:33:54 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-09 15:43:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-09 15:43:52 +0000"
+    },
+    "done": true
   },
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
@@ -7618,9 +7601,279 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "vampirism:recipes/decorations/vampire/chandelier_candle": {
     "criteria": {
-      "has_obsidian": "2024-12-09 15:32:25 +0000"
+      "has_honey": "2024-12-09 15:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-09 15:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-09 15:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2024-12-09 15:57:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-14 14:56:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_netherrack": {
+    "criteria": {
+      "has_items": "2024-12-14 14:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/ancient_debris_slab": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-14 14:56:48 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/soul_sand_slab": {
+    "criteria": {
+      "has_soul_sand": "2024-12-14 14:57:09 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/netherrack_slab": {
+    "criteria": {
+      "has_netherrack": "2024-12-14 14:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-14 14:57:45 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-14 14:57:07 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/ominous_quartz": {
+    "criteria": {
+      "has_items": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-14 14:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-14 14:56:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/magma_block_slab": {
+    "criteria": {
+      "has_magma_block": "2024-12-14 14:57:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/soul_soil_slab": {
+    "criteria": {
+      "has_soul_soil": "2024-12-14 14:57:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-14 14:57:09 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-14 14:56:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-14 14:56:32 +0000"
+    },
+    "done": true
+  },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2024-12-14 15:03:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
     },
     "done": true
   },
