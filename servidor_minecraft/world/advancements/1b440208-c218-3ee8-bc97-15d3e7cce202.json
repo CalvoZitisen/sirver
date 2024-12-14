@@ -2545,6 +2545,7 @@
       "minecraft:skeleton": "2024-12-01 14:58:11 +0000",
       "minecraft:ghast": "2024-12-14 14:59:32 +0000",
       "minecraft:spider": "2024-11-30 14:52:29 +0000",
+      "minecraft:piglin_brute": "2024-12-14 15:10:02 +0000",
       "minecraft:creeper": "2024-12-01 14:39:49 +0000",
       "minecraft:phantom": "2024-12-06 14:58:10 +0000",
       "minecraft:witch": "2024-12-01 14:57:17 +0000",
@@ -7621,7 +7622,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2024-12-09 15:57:42 +0000"
+      "minecraft:soul_sand_valley": "2024-12-09 15:57:42 +0000",
+      "minecraft:nether_wastes": "2024-12-14 15:06:06 +0000"
     },
     "done": false
   },
@@ -7658,6 +7660,12 @@
   "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddle_saddle": {
+    "criteria": {
+      "straddleboard": "2024-12-14 15:06:50 +0000"
     },
     "done": true
   },
@@ -7775,6 +7783,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2024-12-14 15:10:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
@@ -7811,6 +7825,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-14 15:12:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
@@ -7841,6 +7861,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/gilded_blackstone_slab": {
+    "criteria": {
+      "has_gilded_blackstone": "2024-12-14 15:14:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
@@ -7859,6 +7885,12 @@
     },
     "done": true
   },
+  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
+    "criteria": {
+      "has_items": "2024-12-14 15:14:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2024-12-14 14:56:32 +0000"
@@ -7874,6 +7906,12 @@
   "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 14:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-14 15:09:56 +0000"
     },
     "done": true
   },
