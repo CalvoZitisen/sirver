@@ -7628,7 +7628,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-14 15:34:57 +0000",
       "minecraft:soul_sand_valley": "2024-12-09 15:57:42 +0000",
-      "minecraft:nether_wastes": "2024-12-14 15:06:06 +0000"
+      "minecraft:nether_wastes": "2024-12-14 15:06:06 +0000",
+      "minecraft:basalt_deltas": "2024-12-14 15:53:29 +0000"
     },
     "done": false
   },
@@ -7992,6 +7993,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-14 15:49:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-14 14:56:32 +0000"
@@ -8097,6 +8104,18 @@
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-14 14:57:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2024-12-14 15:51:40 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:nether/find_soul_prison": {
+    "criteria": {
+      "in_structure": "2024-12-14 15:47:35 +0000"
     },
     "done": true
   },
