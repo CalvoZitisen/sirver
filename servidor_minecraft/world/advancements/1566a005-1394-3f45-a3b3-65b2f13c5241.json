@@ -8201,9 +8201,21 @@
     },
     "done": false
   },
-  "securitycraft:recipes/misc/portable_tune_player": {
+  "new_slab_variants:recipes/building_blocks/sponge_slab": {
     "criteria": {
-      "has_redstone": "2024-12-13 15:36:26 +0000"
+      "has_sponge": "2024-12-13 14:50:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-13 14:51:10 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/wet_sponge_slab": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-13 14:51:10 +0000"
     },
     "done": true
   },
@@ -8213,15 +8225,75 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/alarm": {
+  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-13 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-13 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-13 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-13 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-13 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+    "criteria": {
+      "has_iron_block": "2024-12-13 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/misc/stonecutting/riveted_locometal": {
+    "criteria": {
+      "has_item": "2024-12-13 15:18:24 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/piston": {
+    "criteria": {
+      "has_sticky_piston": "2024-12-13 15:21:00 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/general/blood_grinder": {
+    "criteria": {
+      "has_hopper": "2024-12-13 15:33:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/food_press": {
+    "criteria": {
+      "has_hopper": "2024-12-13 15:33:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-12-13 15:36:26 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
+  "securitycraft:recipes/redstone/alarm": {
     "criteria": {
-      "has_material": "2024-12-13 15:18:24 +0000"
+      "has_redstone": "2024-12-13 15:36:26 +0000"
     },
     "done": true
   },
@@ -8243,18 +8315,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sponge": {
-    "criteria": {
-      "has_wet_sponge": "2024-12-13 14:51:10 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/wet_sponge_slab": {
-    "criteria": {
-      "has_wet_sponge": "2024-12-13 14:51:10 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2024-12-13 15:36:26 +0000"
@@ -8270,12 +8330,6 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2024-12-13 15:36:26 +0000"
-    },
-    "done": true
-  },
-  "vampirism:recipes/decorations/general/blood_grinder": {
-    "criteria": {
-      "has_hopper": "2024-12-13 15:33:46 +0000"
     },
     "done": true
   },
@@ -8297,39 +8351,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-13 15:53:46 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/iron_destructor_hammer": {
-    "criteria": {
-      "has_material": "2024-12-13 15:18:24 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2024-12-13 15:36:26 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-12-13 15:18:24 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-13 15:36:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/anvil": {
-    "criteria": {
-      "has_iron_block": "2024-12-13 15:18:24 +0000"
     },
     "done": true
   },
@@ -8363,12 +8393,6 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2024-12-13 15:18:24 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-13 15:36:26 +0000"
@@ -8378,12 +8402,6 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-13 15:36:26 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/soap/piston": {
-    "criteria": {
-      "has_sticky_piston": "2024-12-13 15:21:00 +0000"
     },
     "done": true
   },
@@ -8423,33 +8441,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-12-13 15:53:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2024-12-13 15:36:26 +0000"
     },
     "done": true
   },
-  "croptopia:recipes/misc/food_press": {
-    "criteria": {
-      "has_hopper": "2024-12-13 15:33:46 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-12-13 15:36:26 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/sponge_slab": {
-    "criteria": {
-      "has_sponge": "2024-12-13 14:50:59 +0000"
     },
     "done": true
   },
@@ -8471,15 +8471,15 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/iron_block_slab": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_iron_block": "2024-12-13 15:18:24 +0000"
+      "has_sand": "2024-12-13 15:53:46 +0000"
     },
     "done": true
   },
-  "railways:recipes/misc/stonecutting/riveted_locometal": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_item": "2024-12-13 15:18:24 +0000"
+      "has_smelts_to_glass": "2024-12-13 15:53:46 +0000"
     },
     "done": true
   },
