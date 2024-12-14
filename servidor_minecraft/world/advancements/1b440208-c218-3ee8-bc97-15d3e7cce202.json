@@ -7626,6 +7626,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-14 15:34:57 +0000",
       "minecraft:soul_sand_valley": "2024-12-09 15:57:42 +0000",
       "minecraft:nether_wastes": "2024-12-14 15:06:06 +0000"
     },
@@ -7892,6 +7893,12 @@
   "netherdungeons:recipes/crafting/red_nether_brick_fence": {
     "criteria": {
       "has_items": "2024-12-14 15:25:45 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-14 15:39:42 +0000"
     },
     "done": true
   },

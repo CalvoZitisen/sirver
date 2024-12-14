@@ -3575,6 +3575,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2024-12-14 15:40:49 +0000",
       "minecraft:skeleton": "2024-12-06 14:38:45 +0000",
       "minecraft:ghast": "2024-12-14 15:01:13 +0000",
       "minecraft:spider": "2024-12-06 14:35:52 +0000",
@@ -8709,6 +8710,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 15:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2024-12-14 15:21:10 +0000"
@@ -8724,6 +8731,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2024-12-14 15:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-14 15:34:54 +0000"
     },
     "done": true
   },
@@ -8775,6 +8788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-12-14 15:39:33 +0000"
+    },
+    "done": true
+  },
   "1_splatus:ultris/blazepath/kingblazekill": {
     "criteria": {
       "c1": "2024-12-14 15:30:58 +0000"
@@ -8817,6 +8836,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-14 15:39:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-14 15:34:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-14 15:28:11 +0000"
@@ -8838,6 +8869,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_bricks": "2024-12-14 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-14 15:34:54 +0000"
     },
     "done": true
   },
@@ -8874,6 +8911,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2024-12-14 15:28:11 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/ominous_quartz": {
+    "criteria": {
+      "has_items": "2024-12-14 15:34:54 +0000"
     },
     "done": true
   },
@@ -8943,6 +8986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 15:35:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 15:07:02 +0000"
@@ -8961,6 +9010,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 15:34:54 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/basalt_slab": {
+    "criteria": {
+      "has_basalt": "2024-12-14 15:43:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-14 15:34:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 15:07:02 +0000"
@@ -8970,6 +9037,18 @@
   "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 15:07:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-14 15:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-14 15:43:37 +0000"
     },
     "done": true
   },
@@ -9027,6 +9106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-14 15:43:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
     "criteria": {
       "has_smooth_quartz": "2024-12-14 15:28:08 +0000"
@@ -9069,6 +9154,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-14 15:35:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
     "criteria": {
       "has_stone_types_scorchia": "2024-12-14 15:07:02 +0000"
@@ -9105,6 +9196,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-14 15:34:54 +0000"
+    },
+    "done": true
+  },
   "simpleplanes:recipes/plane": {
     "criteria": {
       "in_fire": "2024-12-14 15:02:45 +0000"
@@ -9134,6 +9231,12 @@
       "blaze_king": "2024-12-14 15:30:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-14 15:43:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
