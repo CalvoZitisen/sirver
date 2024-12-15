@@ -9341,5 +9341,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 15:13:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
