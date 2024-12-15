@@ -140,20 +140,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2024-12-15 15:59:55 +0000",
       "minecraft:eroded_badlands": "2024-12-06 14:42:12 +0000",
+      "minecraft:birch_forest": "2024-12-15 16:00:25 +0000",
       "minecraft:wooded_badlands": "2024-11-30 13:05:56 +0000",
       "minecraft:bamboo_jungle": "2024-12-06 14:57:29 +0000",
       "minecraft:badlands": "2024-11-30 14:30:19 +0000",
       "minecraft:savanna_plateau": "2024-11-30 14:56:10 +0000",
       "minecraft:beach": "2024-12-08 15:16:38 +0000",
       "minecraft:stony_peaks": "2024-11-30 14:30:32 +0000",
+      "minecraft:dark_forest": "2024-12-15 16:01:25 +0000",
       "minecraft:sparse_jungle": "2024-12-06 14:55:11 +0000",
       "minecraft:river": "2024-12-01 14:33:19 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 15:15:54 +0000",
       "minecraft:stony_shore": "2024-12-15 15:34:30 +0000",
       "minecraft:forest": "2024-11-30 14:31:30 +0000",
+      "minecraft:lush_caves": "2024-12-15 16:01:26 +0000",
       "minecraft:desert": "2024-12-07 15:10:06 +0000",
       "minecraft:jungle": "2024-11-30 14:29:03 +0000",
+      "minecraft:ocean": "2024-12-15 15:58:55 +0000",
       "minecraft:warm_ocean": "2024-12-09 15:35:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-15 15:38:58 +0000",
       "minecraft:savanna": "2024-11-30 14:35:59 +0000"
@@ -9358,6 +9363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-15 16:02:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
     "criteria": {
       "has_cod": "2024-12-15 15:40:24 +0000"
@@ -9370,9 +9381,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-15 16:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
       "has_salmon": "2024-12-15 15:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-15 16:02:33 +0000"
     },
     "done": true
   },
@@ -9454,6 +9477,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-15 16:02:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-15 15:40:24 +0000"
@@ -9484,6 +9513,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-15 16:02:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2024-12-15 15:27:33 +0000"
@@ -9502,9 +9537,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-15 16:02:31 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/moss_block_slab": {
+    "criteria": {
+      "has_moss_block": "2024-12-15 16:02:31 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/tomato_seeds": {
     "criteria": {
       "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-15 16:02:31 +0000"
     },
     "done": true
   },
