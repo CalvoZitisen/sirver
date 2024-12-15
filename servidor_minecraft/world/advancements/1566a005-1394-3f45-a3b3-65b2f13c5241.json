@@ -3583,6 +3583,7 @@
       "minecraft:spider": "2024-12-06 14:35:52 +0000",
       "minecraft:piglin_brute": "2024-12-15 15:01:13 +0000",
       "minecraft:creeper": "2024-12-08 15:12:57 +0000",
+      "minecraft:phantom": "2024-12-15 15:53:50 +0000",
       "minecraft:wither_skeleton": "2024-12-15 14:53:58 +0000",
       "minecraft:piglin": "2024-12-14 15:45:42 +0000",
       "minecraft:enderman": "2024-12-15 14:51:52 +0000",
@@ -3637,6 +3638,7 @@
     "criteria": {
       "honey_bottle": "2024-12-09 15:47:49 +0000",
       "cooked_beef": "2024-12-06 14:39:32 +0000",
+      "salmon": "2024-12-15 15:56:39 +0000",
       "tropical_fish": "2024-12-08 15:22:52 +0000",
       "bread": "2024-12-15 15:02:06 +0000",
       "beetroot": "2024-12-14 15:02:09 +0000",
@@ -9416,6 +9418,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 15:53:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2024-12-15 15:27:33 +0000"
@@ -9439,6 +9447,12 @@
       "has_cod": "2024-12-15 15:40:24 +0000"
     },
     "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-15 15:53:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
