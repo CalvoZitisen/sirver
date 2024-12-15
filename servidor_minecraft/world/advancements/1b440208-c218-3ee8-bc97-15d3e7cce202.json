@@ -154,6 +154,7 @@
       "minecraft:forest": "2024-11-30 14:34:36 +0000",
       "minecraft:desert": "2024-12-06 14:41:42 +0000",
       "minecraft:jungle": "2024-12-06 14:54:47 +0000",
+      "minecraft:warm_ocean": "2024-12-15 15:35:00 +0000",
       "minecraft:deep_dark": "2024-11-30 14:27:53 +0000",
       "minecraft:savanna": "2024-12-01 14:55:53 +0000"
     },
@@ -2555,7 +2556,8 @@
       "minecraft:wither_skeleton": "2024-12-14 15:24:38 +0000",
       "minecraft:piglin": "2024-12-14 15:16:03 +0000",
       "minecraft:enderman": "2024-12-07 15:10:05 +0000",
-      "minecraft:zombie": "2024-11-30 15:07:35 +0000"
+      "minecraft:zombie": "2024-11-30 15:07:35 +0000",
+      "minecraft:drowned": "2024-12-15 15:37:25 +0000"
     },
     "done": false
   },
@@ -8282,6 +8284,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-15 15:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2024-12-15 15:13:59 +0000"
@@ -8321,6 +8329,12 @@
   "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
     "criteria": {
       "has_netherite_upgrade_smithing_template": "2024-12-15 14:54:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-15 15:29:27 +0000"
     },
     "done": true
   },
@@ -8408,9 +8422,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 15:29:27 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/basalt_slab": {
     "criteria": {
       "has_basalt": "2024-12-15 15:02:45 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/planter_rich": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 15:29:27 +0000"
     },
     "done": true
   },
@@ -8453,6 +8479,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2024-12-15 15:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-15 15:29:27 +0000"
     },
     "done": true
   },

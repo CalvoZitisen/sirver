@@ -150,6 +150,7 @@
       "minecraft:sparse_jungle": "2024-12-06 14:55:11 +0000",
       "minecraft:river": "2024-12-01 14:33:19 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 15:15:54 +0000",
+      "minecraft:stony_shore": "2024-12-15 15:34:30 +0000",
       "minecraft:forest": "2024-11-30 14:31:30 +0000",
       "minecraft:desert": "2024-12-07 15:10:06 +0000",
       "minecraft:jungle": "2024-11-30 14:29:03 +0000",
@@ -9353,9 +9354,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2024-12-15 15:27:33 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-15 15:37:50 +0000"
     },
     "done": true
   },
@@ -9365,9 +9384,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2024-12-15 15:27:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
     },
     "done": true
   },
