@@ -3579,8 +3579,11 @@
       "minecraft:skeleton": "2024-12-06 14:38:45 +0000",
       "minecraft:ghast": "2024-12-14 15:01:13 +0000",
       "minecraft:spider": "2024-12-06 14:35:52 +0000",
+      "minecraft:piglin_brute": "2024-12-15 15:01:13 +0000",
       "minecraft:creeper": "2024-12-08 15:12:57 +0000",
+      "minecraft:wither_skeleton": "2024-12-15 14:53:58 +0000",
       "minecraft:piglin": "2024-12-14 15:45:42 +0000",
+      "minecraft:enderman": "2024-12-15 14:51:52 +0000",
       "minecraft:zombie": "2024-12-06 14:38:22 +0000"
     },
     "done": false
@@ -3632,6 +3635,7 @@
       "honey_bottle": "2024-12-09 15:47:49 +0000",
       "cooked_beef": "2024-12-06 14:39:32 +0000",
       "tropical_fish": "2024-12-08 15:22:52 +0000",
+      "bread": "2024-12-15 15:02:06 +0000",
       "beetroot": "2024-12-14 15:02:09 +0000",
       "carrot": "2024-12-09 14:51:07 +0000"
     },
