@@ -5282,8 +5282,16 @@
   "croptopia:gather_all": {
     "criteria": {
       "cauliflower_seed": "2024-12-09 15:33:54 +0000",
+      "saguaro_seed": "2024-12-20 15:50:50 +0000",
       "greenbean_seed": "2024-12-06 15:00:16 +0000",
-      "cranberry_seed": "2024-12-09 15:33:54 +0000"
+      "basil_seed": "2024-12-20 15:50:50 +0000",
+      "rhubarb_seed": "2024-12-20 15:50:51 +0000",
+      "olive_seed": "2024-12-20 15:50:51 +0000",
+      "cranberry_seed": "2024-12-09 15:33:54 +0000",
+      "asparagus_seed": "2024-12-20 15:50:50 +0000",
+      "raspberry_seed": "2024-12-20 15:50:50 +0000",
+      "squash_seed": "2024-12-20 15:50:51 +0000",
+      "oat_seed": "2024-12-20 15:50:51 +0000"
     },
     "done": false
   },
@@ -5301,7 +5309,8 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
-      "greenbean_seed": "2024-12-06 15:00:16 +0000"
+      "greenbean_seed": "2024-12-06 15:00:16 +0000",
+      "oat_seed": "2024-12-20 15:50:51 +0000"
     },
     "done": false
   },
@@ -7593,13 +7602,16 @@
   },
   "croptopia:gather_forest": {
     "criteria": {
-      "cauliflower_seed": "2024-12-09 15:33:54 +0000"
+      "cauliflower_seed": "2024-12-09 15:33:54 +0000",
+      "radish_seed": "2024-12-20 15:50:51 +0000",
+      "raspberry_seed": "2024-12-20 15:50:50 +0000"
     },
     "done": false
   },
   "croptopia:gather_swamp": {
     "criteria": {
-      "cranberry_seed": "2024-12-09 15:33:54 +0000"
+      "cranberry_seed": "2024-12-09 15:33:54 +0000",
+      "asparagus_seed": "2024-12-20 15:50:50 +0000"
     },
     "done": false
   },
@@ -8650,6 +8662,13 @@
     },
     "done": true
   },
+  "croptopia:gather_jungle": {
+    "criteria": {
+      "basil_seed": "2024-12-20 15:50:50 +0000",
+      "rhubarb_seed": "2024-12-20 15:50:51 +0000"
+    },
+    "done": false
+  },
   "vampirism:recipes/combat/leather_from_obi_belt": {
     "criteria": {
       "has_obi_belt": "2024-12-20 15:04:06 +0000"
@@ -8752,6 +8771,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-12-20 15:52:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-20 15:52:10 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/wet_sponge_slab": {
+    "criteria": {
+      "has_wet_sponge": "2024-12-20 15:52:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-20 15:43:08 +0000"
@@ -8817,6 +8854,13 @@
       "has_stone_types_calcite": "2024-12-20 14:57:08 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "squash_seed": "2024-12-20 15:50:51 +0000",
+      "olive_seed": "2024-12-20 15:50:51 +0000"
+    },
+    "done": false
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
@@ -9127,6 +9171,12 @@
   "cfm:recipes/decorations/white_sofa": {
     "criteria": {
       "has_wool": "2024-12-20 15:41:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:gather_desert": {
+    "criteria": {
+      "saguaro_seed": "2024-12-20 15:50:50 +0000"
     },
     "done": true
   },

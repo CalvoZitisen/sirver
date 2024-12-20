@@ -9624,6 +9624,12 @@
     },
     "done": true
   },
+  "new_slab_variants:recipes/building_blocks/orange_terracotta_slab": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-20 15:51:38 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2024-12-20 15:12:50 +0000"
@@ -9759,6 +9765,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2024-12-20 14:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2024-12-20 15:51:38 +0000"
     },
     "done": true
   },
