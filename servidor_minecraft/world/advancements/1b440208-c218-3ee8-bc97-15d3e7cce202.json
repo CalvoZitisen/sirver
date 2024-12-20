@@ -140,6 +140,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-20 15:14:13 +0000",
       "minecraft:deep_ocean": "2024-12-15 15:59:31 +0000",
       "minecraft:eroded_badlands": "2024-12-01 14:55:55 +0000",
       "minecraft:birch_forest": "2024-12-15 16:00:12 +0000",
@@ -162,6 +163,7 @@
       "minecraft:old_growth_spruce_taiga": "2024-12-15 16:01:05 +0000",
       "minecraft:warm_ocean": "2024-12-15 15:35:00 +0000",
       "minecraft:deep_lukewarm_ocean": "2024-12-15 15:38:58 +0000",
+      "minecraft:old_growth_birch_forest": "2024-12-20 15:14:18 +0000",
       "minecraft:deep_dark": "2024-11-30 14:27:53 +0000",
       "minecraft:savanna": "2024-12-01 14:55:53 +0000"
     },
@@ -2562,6 +2564,7 @@
       "minecraft:witch": "2024-12-01 14:57:17 +0000",
       "minecraft:wither_skeleton": "2024-12-14 15:24:38 +0000",
       "minecraft:husk": "2024-12-20 14:47:30 +0000",
+      "minecraft:cave_spider": "2024-12-20 15:15:16 +0000",
       "minecraft:piglin": "2024-12-14 15:16:03 +0000",
       "minecraft:enderman": "2024-12-07 15:10:05 +0000",
       "minecraft:silverfish": "2024-12-15 15:43:10 +0000",
@@ -8587,6 +8590,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2024-12-20 15:13:56 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 14:57:08 +0000"
@@ -8602,6 +8611,24 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 14:57:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/decorations/vampire/coffin_black": {
+    "criteria": {
+      "has_wool": "2024-12-20 15:13:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2024-12-20 15:11:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2024-12-20 15:13:56 +0000"
     },
     "done": true
   },
@@ -8641,6 +8668,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-20 15:14:39 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 14:57:08 +0000"
@@ -8653,9 +8686,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-20 15:13:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2024-12-20 15:11:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_calcite_bricks_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 14:57:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-20 15:13:56 +0000"
     },
     "done": true
   },
@@ -8689,9 +8740,27 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-20 15:13:56 +0000"
+    },
+    "done": true
+  },
   "new_slab_variants:recipes/building_blocks/calcite_slab": {
     "criteria": {
       "has_calcite": "2024-12-20 14:57:08 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/black_wool_slab": {
+    "criteria": {
+      "has_black_wool": "2024-12-20 15:13:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-20 15:13:56 +0000"
     },
     "done": true
   },
@@ -8728,6 +8797,12 @@
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2024-12-20 14:57:08 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-20 15:14:39 +0000"
     },
     "done": true
   },
