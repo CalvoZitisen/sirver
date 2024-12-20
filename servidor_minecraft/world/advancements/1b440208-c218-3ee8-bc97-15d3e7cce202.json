@@ -8593,6 +8593,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/combat/leather_from_obi_belt": {
+    "criteria": {
+      "has_obi_belt": "2024-12-20 15:04:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 14:57:08 +0000"
@@ -8665,6 +8671,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_smelting": {
+    "criteria": {
+      "has_ring": "2024-12-20 15:02:15 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 14:57:08 +0000"
@@ -8686,6 +8698,12 @@
   "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 14:57:08 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/misc/gold_nugget_from_accessory_blasting": {
+    "criteria": {
+      "has_ring": "2024-12-20 15:02:15 +0000"
     },
     "done": true
   },
