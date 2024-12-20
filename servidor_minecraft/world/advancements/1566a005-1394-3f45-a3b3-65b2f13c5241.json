@@ -9351,27 +9351,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/grilled_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-15 15:40:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/netherite_scrap_from_blasting": {
     "criteria": {
       "has_the_recipe": "2024-12-15 15:13:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/clay": {
-    "criteria": {
-      "has_clay_ball": "2024-12-15 16:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
-    "criteria": {
-      "has_cod": "2024-12-15 15:40:24 +0000"
     },
     "done": true
   },
@@ -9381,69 +9363,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
-    "criteria": {
-      "has_moss": "2024-12-15 16:02:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-15 15:40:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brick": {
-    "criteria": {
-      "has_clay_ball": "2024-12-15 16:02:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
-    "criteria": {
-      "has_salmon": "2024-12-15 15:40:28 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/misc/tomato_juice": {
-    "criteria": {
-      "has_tomato": "2024-12-15 15:32:04 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2024-12-15 15:42:56 +0000"
-    },
-    "done": true
-  },
   "croptopia:knife": {
     "criteria": {
       "knife": "2024-12-15 15:27:33 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_tomato": "2024-12-15 15:32:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2024-12-15 15:40:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-12-15 15:37:50 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-15 15:53:50 +0000"
     },
     "done": true
   },
@@ -9453,9 +9375,63 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2024-12-15 15:27:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/tomato_sauce": {
     "criteria": {
       "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2024-12-15 15:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-15 15:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-15 15:40:24 +0000"
     },
     "done": true
   },
@@ -9471,33 +9447,39 @@
     },
     "done": true
   },
-  "deeperdarker:main/kill_all_sculk_mobs": {
-    "criteria": {
-      "phantom": "2024-12-15 15:53:50 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2024-12-15 16:02:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-15 15:40:24 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+  "farmersdelight:recipes/food/grilled_salmon": {
     "criteria": {
-      "has_any_ingredient": "2024-12-15 15:32:04 +0000"
+      "has_salmon": "2024-12-15 15:40:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
     "criteria": {
-      "has_chorus_fruit": "2024-12-15 15:47:01 +0000"
+      "has_salmon": "2024-12-15 15:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2024-12-15 15:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-12-15 15:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-12-15 15:40:28 +0000"
     },
     "done": true
   },
@@ -9507,33 +9489,45 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/tomato_crate": {
+  "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
-      "has_tomato": "2024-12-15 15:32:04 +0000"
+      "location0": "2024-12-15 15:42:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-15 15:47:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-15 15:53:50 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2024-12-15 15:53:50 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-15 16:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-15 16:02:31 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
     "criteria": {
       "has_moss": "2024-12-15 16:02:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "golden_knife": "2024-12-15 15:27:33 +0000"
-    },
-    "done": true
-  },
-  "croptopia:recipes/veggie_salad": {
-    "criteria": {
-      "has_the_recipe": "2024-12-15 15:32:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2024-12-15 15:40:28 +0000"
     },
     "done": true
   },
@@ -9549,15 +9543,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/misc/tomato_seeds": {
-    "criteria": {
-      "has_tomato": "2024-12-15 15:32:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2024-12-15 16:02:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-15 16:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-15 16:02:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-20 14:46:58 +0000"
     },
     "done": true
   },
