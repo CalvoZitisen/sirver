@@ -9204,9 +9204,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/bamboo_furnace_raft": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9219,6 +9231,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9252,6 +9270,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2024-12-21 15:05:21 +0000"
@@ -9261,6 +9303,18 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-12-21 15:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9306,6 +9360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-21 15:13:37 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/oak_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9342,6 +9402,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 15:12:27 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9363,6 +9429,12 @@
   "boatload:recipes/transportation/birch_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9396,6 +9468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/transportation/river_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9420,6 +9498,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-21 15:13:37 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9441,6 +9531,12 @@
   "boatload:recipes/transportation/crimson_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9495,6 +9591,12 @@
   "boatload:recipes/transportation/large_acacia_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
