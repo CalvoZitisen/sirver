@@ -10029,7 +10029,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-12-20 15:15:12 +0000"
+      "in_better_spider_dungeon": "2024-12-20 15:15:12 +0000",
+      "in_better_monster_room": "2024-12-21 15:47:15 +0000"
     },
     "done": false
   },
@@ -10352,6 +10353,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-21 15:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_stone_tiles_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-21 15:40:06 +0000"
@@ -10385,6 +10392,18 @@
   "minecraft:recipes/decorations/polished_dark_stone_stairs_from_cobbled_dark_stone_stonecutting": {
     "criteria": {
       "has_cobbled_dark_stone": "2024-12-21 15:40:06 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:evil_source": {
+    "criteria": {
+      "criteria_0": "2024-12-21 15:48:34 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-21 15:47:15 +0000"
     },
     "done": true
   },

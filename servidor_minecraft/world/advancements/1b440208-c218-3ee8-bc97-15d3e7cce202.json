@@ -155,6 +155,7 @@
       "minecraft:river": "2024-12-06 14:31:56 +0000",
       "minecraft:lukewarm_ocean": "2024-12-08 15:14:38 +0000",
       "minecraft:stony_shore": "2024-12-06 15:00:13 +0000",
+      "minecraft:dripstone_caves": "2024-12-21 15:45:31 +0000",
       "minecraft:forest": "2024-11-30 14:34:36 +0000",
       "minecraft:lush_caves": "2024-12-15 16:01:16 +0000",
       "minecraft:desert": "2024-12-06 14:41:42 +0000",
@@ -165,7 +166,8 @@
       "minecraft:deep_lukewarm_ocean": "2024-12-15 15:38:58 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-20 15:14:18 +0000",
       "minecraft:deep_dark": "2024-11-30 14:27:53 +0000",
-      "minecraft:savanna": "2024-12-01 14:55:53 +0000"
+      "minecraft:savanna": "2024-12-01 14:55:53 +0000",
+      "minecraft:plains": "2024-12-21 15:51:11 +0000"
     },
     "done": false
   },
@@ -1680,9 +1682,10 @@
   },
   "vampirism:vampire/kill_mother": {
     "criteria": {
-      "main": "2024-11-30 14:43:06 +0000"
+      "main": "2024-11-30 14:43:06 +0000",
+      "killed": "2024-12-21 15:58:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/bat": {
     "criteria": {
@@ -8808,7 +8811,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-12-20 15:14:39 +0000"
+      "in_better_spider_dungeon": "2024-12-20 15:14:39 +0000",
+      "in_better_monster_room": "2024-12-21 15:47:30 +0000"
     },
     "done": false
   },
@@ -9192,6 +9196,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-12-21 15:48:03 +0000"
+    },
+    "done": true
+  },
   "boatload:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9201,6 +9211,12 @@
   "boatload:recipes/transportation/large_warped_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
     },
     "done": true
   },
@@ -9237,6 +9253,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
     },
     "done": true
   },
@@ -9348,6 +9370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9378,9 +9406,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "killed": "2024-12-21 15:58:17 +0000"
+    },
+    "done": false
+  },
   "boatload:recipes/transportation/oak_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
     },
     "done": true
   },
@@ -9411,6 +9457,12 @@
   "boatload:recipes/transportation/wide_bamboo_raft": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-21 15:47:30 +0000"
     },
     "done": true
   },
@@ -9588,9 +9640,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
   "upgrade_aquatic:recipes/transportation/large_river_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
     },
     "done": true
   },
