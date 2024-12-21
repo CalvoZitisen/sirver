@@ -3585,6 +3585,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2024-12-14 15:40:49 +0000",
+      "minecraft:pillager": "2024-12-21 15:07:56 +0000",
       "minecraft:skeleton": "2024-12-06 14:38:45 +0000",
       "minecraft:ghast": "2024-12-14 15:01:13 +0000",
       "minecraft:spider": "2024-12-06 14:35:52 +0000",
@@ -10226,9 +10227,10 @@
   },
   "vampirism:vampire/resurrect": {
     "criteria": {
+      "resurrected": "2024-12-21 15:02:20 +0000",
       "main": "2024-12-20 15:28:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "vampirism:vampire/extra_storage": {
     "criteria": {
@@ -10299,6 +10301,18 @@
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2024-12-20 15:51:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-21 15:04:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-12-21 15:09:14 +0000"
     },
     "done": true
   },
