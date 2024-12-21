@@ -9204,6 +9204,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2024-12-21 15:21:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-21 15:13:34 +0000"
@@ -9285,6 +9291,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2024-12-21 15:28:46 +0000"
     },
     "done": true
   },
@@ -9591,6 +9603,12 @@
   "boatload:recipes/transportation/large_acacia_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-12-21 15:28:04 +0000"
     },
     "done": true
   },
