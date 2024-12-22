@@ -9196,12 +9196,6 @@
     },
     "done": true
   },
-  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin_seed": "2024-12-21 15:48:03 +0000"
-    },
-    "done": true
-  },
   "boatload:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9214,33 +9208,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/emu": {
-    "criteria": {
-      "killed": "2024-12-21 15:21:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
-    },
-    "done": true
-  },
   "boatload:recipes/transportation/bamboo_furnace_raft": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9253,18 +9223,6 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/sandstone_corner_trim": {
-    "criteria": {
-      "has_sandstone_corner_trim": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9298,36 +9256,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
-    },
-    "done": true
-  },
-  "vampirism:main/regicide": {
-    "criteria": {
-      "main": "2024-12-21 15:28:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_slab": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/boat_jar": {
     "criteria": {
       "minecraft:boats": "2024-12-21 15:05:21 +0000"
@@ -9337,18 +9265,6 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2024-12-21 15:15:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_sandstone": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9367,12 +9283,6 @@
   "boatload:recipes/transportation/jungle_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
     },
     "done": true
   },
@@ -9400,33 +9310,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-21 15:13:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
-    },
-    "done": true
-  },
-  "vampirism:hunter/kill_mother": {
-    "criteria": {
-      "killed": "2024-12-21 15:58:17 +0000"
-    },
-    "done": false
-  },
   "boatload:recipes/transportation/oak_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
     },
     "done": true
   },
@@ -9460,18 +9346,6 @@
     },
     "done": true
   },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2024-12-21 15:47:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/fortuitous_militia": {
-    "criteria": {
-      "coded_trigger": "2024-12-21 15:12:27 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/mining_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9493,12 +9367,6 @@
   "boatload:recipes/transportation/birch_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9532,12 +9400,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
-    },
-    "done": true
-  },
   "upgrade_aquatic:recipes/transportation/river_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9562,18 +9424,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-12-21 15:13:37 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/sandstone_pillar_trim": {
-    "criteria": {
-      "has_sandstone_pillar_trim": "2024-12-21 15:13:34 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/transportation/canopy_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
@@ -9595,12 +9445,6 @@
   "boatload:recipes/transportation/crimson_furnace_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
-    "criteria": {
-      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9640,21 +9484,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
-    },
-    "done": true
-  },
   "upgrade_aquatic:recipes/transportation/large_river_boat": {
     "criteria": {
       "has_boat": "2024-12-21 15:05:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
     },
     "done": true
   },
@@ -9670,9 +9502,87 @@
     },
     "done": true
   },
-  "vampirism:main/vampire_forest": {
+  "boatload:recipes/transportation/large_mangrove_boat": {
     "criteria": {
-      "main": "2024-12-21 15:28:04 +0000"
+      "has_boat": "2024-12-21 15:05:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-21 15:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_corner_trim": {
+    "criteria": {
+      "has_sandstone_corner_trim": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/sandstone_pillar_trim": {
+    "criteria": {
+      "has_sandstone_pillar_trim": "2024-12-21 15:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-21 15:13:34 +0000"
     },
     "done": true
   },
@@ -9682,11 +9592,101 @@
     },
     "done": true
   },
-  "boatload:recipes/transportation/large_mangrove_boat": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "has_boat": "2024-12-21 15:05:21 +0000"
+      "has_sand": "2024-12-21 15:13:37 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-21 15:13:37 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2024-12-21 15:15:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2024-12-21 15:21:16 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/vampire_forest": {
+    "criteria": {
+      "main": "2024-12-21 15:28:04 +0000"
+    },
+    "done": true
+  },
+  "vampirism:main/regicide": {
+    "criteria": {
+      "main": "2024-12-21 15:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-21 15:46:10 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2024-12-21 15:47:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2024-12-21 15:48:03 +0000"
+    },
+    "done": true
+  },
+  "vampirism:hunter/kill_mother": {
+    "criteria": {
+      "killed": "2024-12-21 15:58:17 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
