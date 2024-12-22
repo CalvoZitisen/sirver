@@ -9688,5 +9688,35 @@
     },
     "done": false
   },
+  "vampirism:hunter/kill_resurrected_vampire": {
+    "criteria": {
+      "killed": "2024-12-22 14:52:23 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 14:52:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 14:52:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2024-12-22 14:52:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 14:52:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
