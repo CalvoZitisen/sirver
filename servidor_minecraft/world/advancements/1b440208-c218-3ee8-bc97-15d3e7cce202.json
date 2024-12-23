@@ -9688,63 +9688,15 @@
     },
     "done": false
   },
-  "new_slab_variants:recipes/building_blocks/redstone_block_slab": {
-    "criteria": {
-      "has_redstone_block": "2024-12-22 15:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
-    "criteria": {
-      "has_white_terracotta": "2024-12-22 15:13:28 +0000"
-    },
-    "done": true
-  },
   "vampirism:hunter/kill_resurrected_vampire": {
     "criteria": {
       "killed": "2024-12-22 14:52:23 +0000"
     },
     "done": false
   },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-12-22 15:05:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-22 15:03:42 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/lapis_block_slab": {
-    "criteria": {
-      "has_lapis_block": "2024-12-22 15:08:04 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/block_pocket_manager": {
-    "criteria": {
-      "has_redstone_block": "2024-12-22 15:07:31 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2024-12-22 14:52:50 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-22 15:09:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-22 15:09:31 +0000"
     },
     "done": true
   },
@@ -9754,57 +9706,15 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/white_terracotta_slab": {
-    "criteria": {
-      "has_white_terracotta": "2024-12-22 15:13:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-22 15:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-22 15:03:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2024-12-22 15:09:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2024-12-22 15:03:42 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
-    "criteria": {
-      "has_coal_block": "2024-12-22 15:05:31 +0000"
-    },
-    "done": true
-  },
-  "new_slab_variants:recipes/building_blocks/yellow_terracotta_slab": {
-    "criteria": {
-      "has_yellow_terracotta": "2024-12-22 15:13:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2024-12-22 15:03:42 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/enchant_grave_key": {
     "criteria": {
       "has_upgraded_grave_key": "2024-12-22 14:52:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-22 14:52:57 +0000"
     },
     "done": true
   },
@@ -9820,15 +9730,57 @@
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/copper_block_slab": {
+  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+    "criteria": {
+      "has_diamond_block": "2024-12-22 14:56:23 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-22 14:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-12-22 14:56:23 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-22 14:56:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-22 15:03:42 +0000"
     },
     "done": true
   },
-  "new_slab_variants:recipes/building_blocks/diamond_block_slab": {
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
-      "has_diamond_block": "2024-12-22 14:56:23 +0000"
+      "has_copper_block": "2024-12-22 15:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-22 15:03:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-22 15:03:42 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/copper_block_slab": {
+    "criteria": {
+      "has_copper_block": "2024-12-22 15:03:42 +0000"
     },
     "done": true
   },
@@ -9844,27 +9796,63 @@
     },
     "done": true
   },
-  "tombstone:adventure/teleport_to_grave": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "coded_trigger": "2024-12-22 14:52:57 +0000"
+      "has_coal_block": "2024-12-22 15:05:31 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_impact_hammer": {
+  "new_slab_variants:recipes/building_blocks/coal_block_slab": {
     "criteria": {
-      "has_material": "2024-12-22 14:56:23 +0000"
+      "has_coal_block": "2024-12-22 15:05:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+  "new_slab_variants:recipes/building_blocks/redstone_block_slab": {
     "criteria": {
-      "has_yellow_terracotta": "2024-12-22 15:13:29 +0000"
+      "has_redstone_block": "2024-12-22 15:07:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
+  "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
-      "has_diamond_block": "2024-12-22 14:56:23 +0000"
+      "has_redstone_block": "2024-12-22 15:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-22 15:07:31 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/lapis_block_slab": {
+    "criteria": {
+      "has_lapis_block": "2024-12-22 15:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-12-22 15:08:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 15:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 15:09:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-22 15:09:31 +0000"
     },
     "done": true
   },
@@ -9874,15 +9862,27 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_material": "2024-12-22 14:56:23 +0000"
+      "has_white_terracotta": "2024-12-22 15:13:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
+  "new_slab_variants:recipes/building_blocks/white_terracotta_slab": {
     "criteria": {
-      "has_lapis_block": "2024-12-22 15:08:04 +0000"
+      "has_white_terracotta": "2024-12-22 15:13:28 +0000"
+    },
+    "done": true
+  },
+  "new_slab_variants:recipes/building_blocks/yellow_terracotta_slab": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-22 15:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2024-12-22 15:13:29 +0000"
     },
     "done": true
   },
